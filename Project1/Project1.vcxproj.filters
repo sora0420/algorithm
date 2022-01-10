@@ -24,56 +24,5 @@
     <ClCompile Include="Q1.cpp">
       <Filter>Source Files\1-10</Filter>
     </ClCompile>
-    <ClCompile Include="Q2.cpp">
-      <Filter>Source Files\1-10</Filter>
-    </ClCompile>
-    <ClCompile Include="Q3.cpp">
-      <Filter>Source Files\1-10</Filter>
-    </ClCompile>
-    <ClCompile Include="Q4.cpp">
-      <Filter>Source Files\1-10</Filter>
-    </ClCompile>
-    <ClCompile Include="Q5.cpp">
-      <Filter>Source Files\1-10</Filter>
-    </ClCompile>
-    <ClCompile Include="Q6.cpp">
-      <Filter>Source Files\1-10</Filter>
-    </ClCompile>
-    <ClCompile Include="Q7.cpp">
-      <Filter>Source Files\1-10</Filter>
-    </ClCompile>
-    <ClCompile Include="Q8.cpp">
-      <Filter>Source Files\1-10</Filter>
-    </ClCompile>
-    <ClCompile Include="Q9.cpp">
-      <Filter>Source Files\1-10</Filter>
-    </ClCompile>
-    <ClCompile Include="Q10.cpp">
-      <Filter>Source Files\1-10</Filter>
-    </ClCompile>
-    <ClCompile Include="Q11.cpp">
-      <Filter>Source Files\11-20</Filter>
-    </ClCompile>
-    <ClCompile Include="Q12.cpp">
-      <Filter>Source Files\11-20</Filter>
-    </ClCompile>
-    <ClCompile Include="Q13.cpp">
-      <Filter>Source Files\11-20</Filter>
-    </ClCompile>
-    <ClCompile Include="Q14.cpp">
-      <Filter>Source Files\11-20</Filter>
-    </ClCompile>
-    <ClCompile Include="Q15.cpp">
-      <Filter>Source Files\11-20</Filter>
-    </ClCompile>
-    <ClCompile Include="Q16.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="17.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="18.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
