@@ -16,9 +16,6 @@
     <Filter Include="Source Files\1-10">
       <UniqueIdentifier>{121dab8e-6986-4ed1-a025-e5b4b8aa81c8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\11-20">
-      <UniqueIdentifier>{0e181589-2274-4abb-b074-1bcdbe19b0af}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q1.cpp">

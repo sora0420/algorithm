@@ -6,7 +6,7 @@ int main() {
 		if (i%m == 0) {
 			sum = sum + i;
 		}
-	}
+	} 
 	std::cout << sum;
 	return 0;
 } 
